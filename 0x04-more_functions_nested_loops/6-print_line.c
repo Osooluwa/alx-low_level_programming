@@ -2,7 +2,8 @@
 
 /**
  * print_line - a function that draws a straight line in the terminal.
- * followed by anew line
+ * followed by a new line
+ * @n: character to check
  * Return: Always 0
  */
 
