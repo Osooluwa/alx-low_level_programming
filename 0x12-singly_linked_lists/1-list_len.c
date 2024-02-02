@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * list_len - find the num of elements in 
+ * list_len - find the num of elements in
  * a linked list_t list.
  * @h: the a linked list_t list.
  * Return: the num of elements in h
