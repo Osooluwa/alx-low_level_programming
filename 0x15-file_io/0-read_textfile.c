@@ -6,7 +6,8 @@
  * POSIX standard output
  * @letters: the num of letters
  * @filename: pointer to the file name
- * Return: if function fails or is null, 0
+ * Return: if function fails or is null - 0
+ * O/w - the actual number of bytes the function can read and print
  */
 
 ssize_t read_textfile(const char *filename, size_t letters)
